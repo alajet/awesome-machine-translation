@@ -60,6 +60,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 - [Machine Translation: Foundations and Models](https://github.com/NiuTrans/MTBook) - Tong Xiao, Jingbo Zhu - 2020... - Chinese - A book that gives a systematic introduction to the basic knowledge and modeling methods of machine translation, and on this basis, discuss some cutting-edge technologies of machine translation. It can be used for the study of senior undergraduates and graduate students in computer and artificial intelligence related majors, and can also be used as a reference material for researchers related to natural language processing, especially machine translation.
 
 ## Companies and Paid Services 💰
+- [Alexa Translations] (https://alexatranslations.com) - Break language barriers with Alexa Translations—delivering expert translation services powered by A.I. and industry-specialized translators
 - [KantanAI](https://www.kantanai.io/) - A SaaS-based Machine Translation platform.
 - [Lingua Custodia](https://www.linguacustodia.finance/) - A machine translation company specializes in finance.
 - [SYSTRAN](http://www.systransoft.com/) - One of the oldest machine translation companies.
@@ -128,6 +129,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 - [turkish-parallel-corpora](https://github.com/maidis/turkish-parallel-corpora) - Some English-Turkish parallel texts for use in machine translation systems.
 
 ## Tools 🛠
+- [Alexa Translations A.I.] (https://alexatranslations.com/alexatranslations-ai) - Break language barriers with Alexa Translations—delivering expert translation services powered by A.I. and industry-specialized translators
 - [Corpora Cleaning Tools](https://github.com/M4t1ss/parallel-corpora-tools) - Tools for filtering and cleaning parallel and monolingual corpora in order to train better (neural) machine translation systems.
 - [MT-Tools](https://github.com/ymoslem/MT-Tools) - A collection of common machine translation tools.
 - [MTData](https://github.com/thammegowda/mtdata) - A tool that locates, downloads, and extracts machine translation corpora.
@@ -136,6 +138,7 @@ You can also find an updated list of machine translation frameworks, libraries, 
 - [SMT Corpus Tools](https://smt-corpus-tools.readthedocs.io) - A tool set to process corpus files for machine translation.
 
 ## Tutorials and Blogs 🎒
+- [Course: Foundations of A.I. in Machine Translation] (https://alexatranslations.com/course/foundations-of-ai-in-machine-translation-course/) - Looking to become certified in the Foundations of A.I. in Machine Translation? Learn from industry experts, including Joachim Lépine, Jason Cox, Kate Cryderman and Miki Velemirovich!
 - [Build Your Own ‘Google Translate’-Quality Machine Translation System](https://medium.com/@ageitgey/build-your-own-google-translate-quality-machine-translation-system-d7dc274bd476) - A blog post that explains how to built a NMT.
 - [ChatGPT-translation.py](https://gist.github.com/ymoslem/cc46564d23857883aeeec136436fac23) - Minimal working code for translation with GPT-4.
 - [Jindřich’s Blog](https://jlibovicky.github.io/) - Remarks and comments on natural language processing, artificial intelligence, and their potential social impact.
